@@ -1,9 +1,10 @@
 import customtkinter as ctk
 import requests
 import json
+import os
 
 model = "gpt-4o-mini"
-api_key = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIzZjIwMDAyNzRAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.EXQ2jMCIT-QnLGiWuu0jYhru6YgwBB5xkqQiMnng4O8"
+api_key = os.getenv("api_key")
 
 ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("green")
