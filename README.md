@@ -133,3 +133,8 @@ This project is licensed under the MIT License.
 
 Feel free to reach out if you have any questions or suggestions. Happy coding! 🚀
 
+---
+
+## 👤 Author
+
+**Sparsh Agarwal** — [GitHub](https://github.com/sparsh0106) · [LinkedIn](https://www.linkedin.com/in/sparsh-agarwal-4b443b304/)
